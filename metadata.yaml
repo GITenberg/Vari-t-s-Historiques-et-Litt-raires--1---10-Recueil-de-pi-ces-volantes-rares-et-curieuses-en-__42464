@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36482
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89douard_Fournier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42464#Vari-t-s-Historiques-et-Litt-raires--1---10-Recueil-de-pi-ces-volantes-rares-et-curieuses-en-_
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-04-03'
 gutenberg_type: Text
